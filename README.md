@@ -1,8 +1,8 @@
 # WatchShop_Backend
 Welcome to the WatchShop backend repository! This project contains the backend code for the WatchShop application, built using Django and Django Rest Framework. It provides the API endpoints needed for the frontend to interact with watch data, including operations for retrieving, adding, updating, and deleting watch information.
 
-## Project Structure
-
+## Project Structure 
+**WatchProject :**
 - **Django Project Folder**
   - `WatchProject/`: The main Django project directory containing settings and configuration.
 
